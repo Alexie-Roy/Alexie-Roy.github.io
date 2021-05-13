@@ -1,0 +1,99 @@
+
+<html>
+<head>
+
+<style type="text/css">
+body {
+    background-color: paleturquoise; 
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    width: 100%;
+    height:15vh;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    text-align:right;
+}
+h1 {font-family: lucida fax; 
+	margin-top: 24px; 
+	margin-bottom: 15px; 
+	font-weight: 100; 
+	font-size: 30px}
+h2 {font-family: lucida fax}
+
+p {font-family: lucida fax; font-size: 20px;}
+
+nav{
+    flex: 1;
+    padding-right: 60px;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0px 20px;
+    font-family:Georgia;
+    font-size: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color:black;
+}
+ul{
+    flex: 1;
+    text-align: right;
+}
+
+.content h1{
+    font-size: 60px;
+    font-weight: 100;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color:black
+}
+.content p{
+    font-size: 27px;
+    color:black
+}
+.content{
+    margin-left:10%;
+    margin-top: 10%;
+}
+</style>
+</head>
+
+
+h1 {font-family: lucida fax; margin-top: 24px; margin-bottom: 15px; font-weight: 100; font-size: 30px}
+h2 {font-family: lucida fax}
+p {font-family: lucida fax; font-size: 20px;}
+.nav {flex: 1; padding-right: 60px;}
+.nav ul li {display: inline-block; list-style: none; margin: 0px 20px; font-family:lucida fax; font-size: 20px;}
+nav ul li a{
+    text-decoration: none;
+    color:black;
+}
+ul{
+    flex: 1;
+    text-align: right;
+}
+img {width:200; height:200}
+
+
+
+<body>
+
+	<center><img src="IMG_0219.jpg"><img src="IMG_0517.jpg"><img src="IMG-3788.jpg"</center></br>
+
+<h2 margin-top="25px"><b>All you need is love... and a dog!</h2></b>
+
+
+<p>Adopting a dog can change your life positively. Not only are you rescuing homeless dogs, you're giving them a chance to have a loving family and a forever home. It's been said that light can be drowned out of a dog's world, knowing how dogs can be put through horrible situations. However, dogs always bounce back from what they faced and live a happy life with love and care from their forever family.</br></p>
+​
+
+<p>Saving one dog will not change the world, but surely for that one dog, the world will change forever. Dogs are not only your best friend, but your family! So adopt, help, save and dedicate these loving fur-babies.</br>
+
+</p
+
+
